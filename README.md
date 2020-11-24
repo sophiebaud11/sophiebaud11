@@ -4,7 +4,7 @@
 My name is Sophie, and I'm a senior at Harvard studying History & Literature, Government, and Mandarin Chinese. I'm passionate about combining creative and analytic skills to tell compelling stories!
 
 #### 🧰 
-My favorite tools are R, Shiny, Tableau, Figma, and HTML/CSS/Javascript.
+My favorite tools are R, Shiny, [Tableau](https://public.tableau.com/profile/sophie.bauder#!/), Figma, and HTML/CSS/JavaScript.
 
 #### 🌱  
 I'm currently working on three data storytelling projects: 
