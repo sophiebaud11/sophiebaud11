@@ -10,7 +10,7 @@ My favorite tools are R, Shiny, [Tableau](https://public.tableau.com/profile/sop
 I'm currently working on three data storytelling projects: 
 1. A website visualizing the complex landscape of teacher pay in the U.S.
 2. [A Shiny app modeling data about COVID-19's impact on public education in the U.S.](https://sophie-bauder.shinyapps.io/COVID19-and-Education/).
-3. A website analyzing audio from performances of Hamlet's famous "To Be or Not to Be" soliloquy.
+3. [A website analyzing audio from performances of Hamlet's famous "To Be or Not To Be" soliloquy](https://sophiebaud11.github.io/tobeornottobe_public/).
 
 #### 📫  
 You can reach me via [LinkedIn](https://www.linkedin.com/in/sophie-bauder/) or [✉️](sophiebauder@college.harvard.edu) !
