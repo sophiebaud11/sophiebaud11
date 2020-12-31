@@ -6,11 +6,14 @@ My name is Sophie, and I'm a senior at Harvard studying History & Literature, Go
 #### 🧰 
 My favorite tools are R, Shiny, [Tableau](https://public.tableau.com/profile/sophie.bauder#!/), Figma, and HTML/CSS/JavaScript (including [D3.js](https://observablehq.com/@sophiebaud11)).
 
+#### ✅
+I recently finished two data storytelling projects:
+1. [A Shiny app modeling data about COVID-19's impact on public education in the U.S.](https://sophie-bauder.shinyapps.io/COVID19-and-Education/).
+2. [A website analyzing audio from performances of Hamlet's famous "To Be or Not To Be" soliloquy](https://sophiebaud11.github.io/tobeornottobe_public/).
+
 #### 🌱  
-I'm currently working on three data storytelling projects: 
+I'm currently working on one more data-based project: 
 1. A website visualizing the complex landscape of teacher pay in the U.S.
-2. [A Shiny app modeling data about COVID-19's impact on public education in the U.S.](https://sophie-bauder.shinyapps.io/COVID19-and-Education/).
-3. [A website analyzing audio from performances of Hamlet's famous "To Be or Not To Be" soliloquy](https://sophiebaud11.github.io/tobeornottobe_public/).
 
 #### 📫  
 You can reach me via [LinkedIn](https://www.linkedin.com/in/sophie-bauder/) or [✉️](sophiebauder@college.harvard.edu) !
