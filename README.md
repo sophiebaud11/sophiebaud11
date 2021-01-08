@@ -8,7 +8,7 @@ My favorite tools are R, Shiny, [Tableau](https://public.tableau.com/profile/sop
 
 #### ✅
 I recently finished two data storytelling projects:
-1. [A Shiny app modeling data about COVID-19's impact on public education in the U.S.](https://sophie-bauder.shinyapps.io/COVID19-and-Education/).
+1. [A Shiny app modeling data about COVID-19's impact on public education in the United States](https://sophie-bauder.shinyapps.io/COVID19-and-Education/).
 2. [A website analyzing audio from performances of Hamlet's famous "To Be or Not To Be" soliloquy](https://sophiebaud11.github.io/tobeornottobe_public/).
 
 #### 🌱  
