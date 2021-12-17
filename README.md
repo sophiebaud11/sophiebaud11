@@ -12,5 +12,7 @@ I recently finished three data storytelling projects:
 2. [A website analyzing audio from performances of Hamlet's famous "To Be or Not To Be" soliloquy](https://sophiebaud11.github.io/tobeornottobe_public/).
 3. [A website visualizing the complex landscape of teacher pay in the U.S.](https://sophiebaud11.github.io/teacher-pay/)
 
+I also created an additional website to [showcase my Senior Thesis in History & Literature](https://sophiebaud11.github.io/alt-thesis/).
+
 #### 📫  
 You can reach me via [LinkedIn](https://www.linkedin.com/in/sophie-bauder/) or [✉️](sophiebauder@college.harvard.edu) !
